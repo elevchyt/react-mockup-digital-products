@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-mockup-digital-products/static/js/main.be35d24c.chunk.js",
+    "main.js.map": "/react-mockup-digital-products/static/js/main.be35d24c.chunk.js.map",
+    "runtime-main.js": "/react-mockup-digital-products/static/js/runtime-main.193393e2.js",
+    "runtime-main.js.map": "/react-mockup-digital-products/static/js/runtime-main.193393e2.js.map",
+    "static/js/2.d3a44179.chunk.js": "/react-mockup-digital-products/static/js/2.d3a44179.chunk.js",
+    "static/js/2.d3a44179.chunk.js.map": "/react-mockup-digital-products/static/js/2.d3a44179.chunk.js.map",
+    "index.html": "/react-mockup-digital-products/index.html",
+    "static/js/2.d3a44179.chunk.js.LICENSE.txt": "/react-mockup-digital-products/static/js/2.d3a44179.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.193393e2.js",
+    "static/js/2.d3a44179.chunk.js",
+    "static/js/main.be35d24c.chunk.js"
+  ]
+}
